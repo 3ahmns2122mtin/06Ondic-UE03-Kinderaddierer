@@ -19,9 +19,9 @@ z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages 
 
 ## Drittmaterial:
 Falls verwendet Fonts, Sounds, Music, Graphics, Materials, Code etc. welches nicht von mir stammt muss hier referenziert werden.
- Song: von Youtube gedownloadet
- Bilder: In Google gesucht und gedownloadet
- Fonts: Von www.DaFont.com gedownloadet
+ # Song: von Youtube gedownloadet
+ # Bilder: In Google gesucht und gedownloadet
+ # Fonts: Von www.DaFont.com gedownloadet
 ## Anforderungsliste:
  - [ ] Mercury
  - [ ] Venus
